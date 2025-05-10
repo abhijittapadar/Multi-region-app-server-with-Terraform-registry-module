@@ -24,7 +24,7 @@ provider "aws" {
 }
 
 #------------------------------------------------------------------------------
-# Provider Configuration for ap-southeast-1 (Singapore)
+# Provider Configuration for ap-south-1 (Mumbai)
 #------------------------------------------------------------------------------
 
 provider "aws" {
